@@ -1,0 +1,24 @@
+.emp-form{
+    display: flex;
+    flex-direction: row;
+}
+
+.emp-name{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.emp-exp{
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+.emp-date{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+
+.emp-submit-button{
+    margin: 50px 220px;
+    width: 60px;
+}
+

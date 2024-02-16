@@ -1,0 +1,43 @@
+.data-holder{
+    background-color: rgb(110, 104, 104);
+    padding-top: 25px;
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 20px;
+    padding-bottom: 30px;
+}
+
+.emp-data{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgb(219, 216, 216);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 100px;
+    min-width: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid;
+}
+
+.emp-name{
+    width: 120px;
+}
+
+.emp-details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.emp-dob{
+    margin-left: 80px;
+}
+
+.emp-exp{
+    margin-left: 10px;
+}

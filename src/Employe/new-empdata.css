@@ -1,0 +1,10 @@
+.emp-form-box{
+    background-color: wheat;
+    height: 200px;
+    margin-bottom: 40px;
+    margin-left: 420px;
+    margin-right: 420px;
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 20px 20px 20px 20px;
+}
